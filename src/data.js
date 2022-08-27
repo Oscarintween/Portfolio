@@ -6,7 +6,10 @@ import {
   FiDatabase,
   FiMail,
   FiMapPin,
-  FiPhone
+  FiPhone,
+  FiFacebook,
+  FiLinkedin,
+  FiTwitter, 
 } from 'react-icons/fi';
 
 // projects images
@@ -235,3 +238,15 @@ export const contact = [
     description: '487-126-6266',
   },
 ];
+export const socialMedia = [
+  {
+    icon:<FiFacebook />
+  },
+  {
+    icon:<FiLinkedin />
+  },
+  {
+    icon:<FiTwitter />
+  },
+
+]
