@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-scroll';
 
 // import img
-import Image from '../assets/img/oscar2.jpg'
+import Image from '../assets/img/myPics/oscar2.jpg'
 
 const About = () => {
   return (

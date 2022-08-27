@@ -32,9 +32,9 @@ import SkillImg9 from './assets/img/skills/material-ui.png';
 import SkillImg10 from './assets/img/skills/tailwind.png';
 
 // testimonial images
-import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
-import TestiImage2 from './assets/img/testimonials/testimonial-2.webp';
-import TestiImage3 from './assets/img/testimonials/testimonial-3.webp';
+import Person1 from './assets/img/testimonials/person.jpg';
+import Person2 from './assets/img/testimonials/person.jpg';
+import Person3 from './assets/img/testimonials/person.jpg';
 
 // navigation
 export const navigation = [
@@ -195,25 +195,25 @@ export const services = [
 // testimonials
 export const testimonials = [
   {
-    authorImg: TestiImage1,
+    authorImg: Person1,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam labore nisium illum cupiditate reiciendis a numquam',
+    authorName: 'Person1',
+    authorPosition: 'Full Stack developer',
   },
   {
-    authorImg: TestiImage2,
+    authorImg: Person2,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam labore nisium illum cupiditate reiciendis a numquam',
+    authorName: 'Person2',
+    authorPosition: 'Full Stack developer',
   },
   {
-    authorImg: TestiImage3,
+    authorImg: Person3,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam labore nisium illum cupiditate reiciendis a numquam',
+    authorName: 'Person3',
+    authorPosition: 'Full Stack developer',
   },
 ];
 

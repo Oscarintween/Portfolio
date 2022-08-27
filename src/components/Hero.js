@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-scroll';
 
 // import my image
-import Oscar from '../assets/img/oscar.png';
+import Oscar from '../assets/img/myPics/oscar.png';
 
 const Hero = () => {
   return (
