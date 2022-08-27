@@ -10,6 +10,7 @@ import {
   FiFacebook,
   FiLinkedin,
   FiTwitter, 
+  FiGithub,
 } from 'react-icons/fi';
 
 // projects images
@@ -250,6 +251,10 @@ export const socialMedia = [
   {
     icon:<FiTwitter />,
     link:'https://twitter.com/OscarRamos11888'
+  },
+  {
+    icon:<FiGithub />,
+    link:'https://github.com/Oscarintween'
   },
 
 ]
