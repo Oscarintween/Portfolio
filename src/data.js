@@ -240,13 +240,16 @@ export const contact = [
 ];
 export const socialMedia = [
   {
-    icon:<FiFacebook />
+    icon:<FiFacebook />,
+    link:'https://www.facebook.com/profile.php?id=100009316959648'
   },
   {
-    icon:<FiLinkedin />
+    icon:<FiLinkedin />,
+    link:'https://www.linkedin.com/in/oscar-ramos-ortiz-013607206'
   },
   {
-    icon:<FiTwitter />
+    icon:<FiTwitter />,
+    link:'https://twitter.com/OscarRamos11888'
   },
 
 ]

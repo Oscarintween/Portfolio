@@ -16,7 +16,7 @@ const Footer = () => {
               className='text-white hover:text-accent cursor-pointer'
               key={idx}
             >
-              <a className='rounded-sm w-12 h-12 flex justify-center items-center mb-24 text-[5rem]' href='https://www.google.com'>
+              <a className='rounded-sm w-12 h-12 flex justify-center items-center mb-24 text-[5rem]' href={item.link}>
                 {item.icon}
               </a>
             </li>
