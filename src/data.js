@@ -19,7 +19,7 @@ import Project2 from './assets/img/projects/nutrition.png';
 import Project3 from './assets/img/projects/restaurant.png';
 import Project4 from './assets/img/projects/e-commerce.png';
 import Project5 from './assets/img/projects/library.png';
-import Project6 from './assets/img/projects/library.png';
+import Project6 from './assets/img/projects/marvel.png';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
