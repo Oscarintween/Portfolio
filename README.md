@@ -1,0 +1,1 @@
+Responsive Portfolio to showcase the projects I have built throughout my self taught learning journey
