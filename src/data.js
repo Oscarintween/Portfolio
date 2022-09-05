@@ -32,8 +32,8 @@ import SkillImg9 from './assets/img/skills/material-ui.png';
 import SkillImg10 from './assets/img/skills/tailwind.png';
 
 // testimonial images
-import Person1 from './assets/img/testimonials/person.jpg';
-import Person2 from './assets/img/testimonials/person.jpg';
+import Person1 from './assets/img/testimonials/alfredo.jpg';
+import Person2 from './assets/img/testimonials/jorge.jpg';
 import Person3 from './assets/img/testimonials/person.jpg';
 
 // navigation
@@ -197,16 +197,16 @@ export const testimonials = [
   {
     authorImg: Person1,
     authorText:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam labore nisium illum cupiditate reiciendis a numquam',
-    authorName: 'Person1',
-    authorPosition: 'Full Stack developer',
+      'Oscar es alguien increíblemente entregado, decidido por sus convicciones ademas de autodidacta y siempre dispuesto a compartir sus conocimientos con quien lo necesite, nunca se niega a ello, y muy capaz de resolver cualquier reto que se le enfrente.',
+    authorName: 'José Alfredo Hernández Noriega',
+    authorPosition: 'Full Stack developer at Kushki',
   },
   {
     authorImg: Person2,
     authorText:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam labore nisium illum cupiditate reiciendis a numquam',
-    authorName: 'Person2',
-    authorPosition: 'Full Stack developer',
+      ' Oscar es una persona con quien da gusto desarrollar ya que tiene la capacidad de ver muchos problemas desde otros ángulos lo cual ayuda mucho para resolver problemas',
+    authorName: 'Jorge Angel Novoa',
+    authorPosition: 'Full Stack developer at Kushki',
   },
   {
     authorImg: Person3,
