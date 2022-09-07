@@ -208,13 +208,6 @@ export const testimonials = [
     authorName: 'Jorge Angel Novoa',
     authorPosition: 'Full Stack developer at Kushki',
   },
-  {
-    authorImg: Person3,
-    authorText:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam labore nisium illum cupiditate reiciendis a numquam',
-    authorName: 'Person3',
-    authorPosition: 'Full Stack developer',
-  },
 ];
 
 // contact
